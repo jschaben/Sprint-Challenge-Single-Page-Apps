@@ -42,7 +42,7 @@ export default function SearchForm(props) {
           </ul>
         </div>
       </div>
-      );
+      
     </section>
   );
 }
