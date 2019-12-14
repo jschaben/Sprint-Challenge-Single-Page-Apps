@@ -10,6 +10,7 @@ import SearchForm from "./components/SearchForm";
 import axios from "axios";
 
 const WrapperDiv = styled.div`
+
   h1 {
     color: steelblue;
   }
